@@ -181,7 +181,7 @@ section {
   color: white;
 }
 .grid-card {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom: 1rem;
 }
 .grid-card span {
@@ -377,10 +377,10 @@ footer ul li a {
   }
 
   .contact-info p {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   .contact-info i {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   footer ul {
     gap: 1rem;
