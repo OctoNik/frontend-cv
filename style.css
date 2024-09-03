@@ -96,8 +96,8 @@ section {
   gap: 10rem;
 }
 .about img {
-  width: 30vw;
-  border-radius: 50%;
+  width: 20vw;
+  border-radius: 10px;
 }
 .info-box {
   display: flex;
@@ -149,7 +149,7 @@ section {
 
 .section-title {
   text-align: center;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 600;
   margin-bottom: 3rem;
 }
@@ -319,6 +319,10 @@ footer ul li a {
   .about-container {
     flex-direction: column;
   }
+  .about img {
+    width: 40vw;
+    border-radius: 10px;
+  }
   .contact-info p {
     font-size: 1.8rem;
   }
@@ -366,6 +370,12 @@ footer ul li a {
   .about-container img {
     width: 80vw;
   }
+
+  .about img {
+    width: 30vw;
+    border-radius: 10px;
+  }
+
   .contact-info p {
     font-size: 1.5rem;
   }
